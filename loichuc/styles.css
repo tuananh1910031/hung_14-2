@@ -365,7 +365,7 @@ body {
   text-align: center;
   width: 50vw;
   transition: .2s;
-  z-index: 9999;
+  z-index: -1;
 }
  @media (max-width: 768px) {
   .text-letter {
